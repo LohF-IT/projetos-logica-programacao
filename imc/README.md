@@ -4,11 +4,9 @@ Este projeto é uma aplicação simples para calcular o Indice de Massa Corporal
 
 Logica utilizada:
 
-1- Solicitar o peso e a altura da pessoa.
-
-2- Aplicar a formula matemática $IMC = peso / (altura /times altura)$.
-
-3- Verificar em qual faixa o resultado se encaixa (abaixo do peso, peso normal, sobrepeso, etc.).
+1. Solicitar o peso e a altura da pessoa.
+2. Aplicar a formula matemática $IMC = peso / (altura /times altura)$.
+3. Verificar em qual faixa o resultado se encaixa (abaixo do peso, peso normal, sobrepeso, etc.).
 
 
 Versãp Python:
