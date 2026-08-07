@@ -1,5 +1,3 @@
-Python
-
 def calcular_imc():
   print("--- Calculadora de IMC ---")
   peso = float(input("Digite seu peso em kg: "))
