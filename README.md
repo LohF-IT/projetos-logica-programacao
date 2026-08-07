@@ -1,4 +1,5 @@
 Bem vindo ao meu Repositorio de estudos!
+
 Aqui estou documentando a minha jornada de aprendizado em Logica de Programaçao e Algoritimos, resolvendo problemas e estruturando codigos do zero.
 
 O que voce vai encontrar aqui:
