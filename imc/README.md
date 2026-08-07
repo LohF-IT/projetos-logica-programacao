@@ -9,6 +9,6 @@ Logica utilizada:
 3. Verificar em qual faixa o resultado se encaixa (abaixo do peso, peso normal, sobrepeso, etc.).
 
 
-Versãp Python:
+Versãp Python:  
 
 O codigo completo está estruturado para rodar no terminal, garantindo a validação dos dados de entrada.
