@@ -10,5 +10,4 @@ Logica utilizada:
 
 
 Versãp Python:  
-
 O codigo completo está estruturado para rodar no terminal, garantindo a validação dos dados de entrada.
